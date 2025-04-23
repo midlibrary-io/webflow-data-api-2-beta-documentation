@@ -1,8 +1,14 @@
 # Webflow Data API v2 Beta Documentation
 
-This directory contains individual Markdown files detailing the endpoints available in the Webflow Data API v2 Beta.
+> **DISCLAIMER:** This is an initial beta version of the Webflow Data API v2 documentation. Some documents might be incomplete, contain errors, or be missing information. We're actively working to improve the documentation and appreciate your patience during this beta phase.
+
+> **CREATED ON:** 2025-04-23
+
+The Webflow Data API v2 Beta endpoints documentation is a set of Markdown-formatted files ready to be “fed” to your coding AI-helper.
 
 The documentation is organized by API resource category. Each file corresponds to a specific API action (e.g., list, get, create, update, delete) for a resource or sub-resource.
+
+*Source: [https://developers.webflow.com/v2.0.0-beta/reference/](https://developers.webflow.com/v2.0.0-beta/reference/forms/form-submissions/update-submission)*
 
 ## API Categories
 
